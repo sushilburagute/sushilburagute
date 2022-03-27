@@ -2,49 +2,51 @@
   <img src="https://raw.githubusercontent.com/sushilburagute/sushilburagute/main/header.png" width="100%" title="Header Card" alt="Header Card">
 </p>
 
-<br/> 
-
-### 👋 Hello, my name is Sushil. 
- 
-#### I’m a Software Engineer and a self taught Designer who is currently working on procuring depth in Frontend Technologies and then moving onto learning backend and databases. You can check out my Projects and Blogs below and connect with me on my social networks!
 <br/>
 
-![Profile views](https://gpvc.arturio.dev/sushilburagute)  <img src="https://img.shields.io/github/followers/sushilburagute?label=Follow" style=" float:left, margin-right:10px" />
+# 👋 About me
 
----
+> I'm a Software Engineer who majorly works on Web Technologies. I admire having amazing UI design go hand-in-hand with development and that's what pushed to pick up design alongside learning development.
 
-### 🛠️ Tech & Tools I'm familiar with 
-<br/> 
+> I specialize in working on the frontend with ReactJS, Typescript and TailwindCSS. Apart from that, I've some experience working with ExpressJS and MongoDB on the backend.
 
-<img src = "https://img.shields.io/badge/-HTML5-E34F26?style=flat&logo=html5&logoColor=white"> <img src = "https://img.shields.io/badge/-CSS3-1572B6?style=flat&logo=css3&logoColor=white">
-<img src="https://img.shields.io/badge/-JavaScript-eed718?style=flat&logo=javascript&logoColor=ffffff">
-<img src="https://img.shields.io/badge/-Sass-cc6699?style=flat&logo=sass&logoColor=ffffff">
-<img src="https://img.shields.io/badge/-React-000000?style=flat&logo=react&logoColor=00c8ff">
-<img src="https://img.shields.io/badge/-MongoDB-4DB33D?style=flat&logo=mongodb&logoColor=FFFFFF">
-<img src="https://img.shields.io/badge/-GraphQL-e535ab?style=flat&logo=graphql&logoColor=FFFFFF">
-<img src="https://img.shields.io/badge/-MySQL-F29111?style=flat&logo=mysql&logoColor=FFFFFF">
-<img src="https://img.shields.io/badge/-Express.js-787878?style=flat">
-<img src="https://img.shields.io/badge/-Node.js-3C873A?style=flat&logo=Node.js&logoColor=white">
-<img src="https://img.shields.io/badge/-Progressive Web Apps-5A0FC8?style=flat">
-<img src="http://img.shields.io/badge/-Git-F1502F?style=flat&logo=git&logoColor=FFFFFF">
-<img src="http://img.shields.io/badge/-Github-000000?style=flat&logo=github&logoColor=FFFFFF">
-<img src="http://img.shields.io/badge/-VS%20Code-007ACC?style=flat&logo=visual%20studio%20code&logoColor=white">
+<br/>
 
----
+![Profile views](https://gpvc.arturio.dev/sushilburagute) <img src="https://img.shields.io/github/followers/sushilburagute?label=Follow" style=" float:left, margin-right:10px" />
 
-### 📈 Github Stats 
-<br/> 
+<br/>
+
+# 🛠️ Stack
+
+<br/>
+
+![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
+![Next JS](https://img.shields.io/badge/Next-black?style=for-the-badge&logo=next.js&logoColor=white)
+![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white)
+![TailwindCSS](https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white)
+![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
+![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white)
+![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white)
+![Chakra](https://img.shields.io/badge/chakra-%234ED1C5.svg?style=for-the-badge&logo=chakraui&logoColor=white)
+![Framer](https://img.shields.io/badge/Framer-black?style=for-the-badge&logo=framer&logoColor=blue)
+![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white)
+
+# 📈 Github Stats
+
+<br/>
 
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=sushilburagute&show_icons=true&hide_border=true)
 
+![GitHub stats](https://github-readme-stats.vercel.app/api/top-langs/?username=sushilburagute)
+
+# 🌐 Let's Connect!
+
+<br/>
+
+![https://sush.vercel.app/](https://img.shields.io/badge/Portfolio-%23000000.svg?style=for-the-badge&logo=firefox&logoColor=#FF7139)
+
+![https://twitter.com/codetastic1](https://img.shields.io/badge/codetastic1-%231DA1F2.svg?style=for-the-badge&logo=Twitter&logoColor=white)
+
+![https://in.linkedin.com/in/sushil-buragute](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)
+
 ---
-
-### 🌐 Let's Connect! 
-
-<img align="left" alt="sushilburagute" width="22px" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg" /> https://sushilburagute.github.io/ <br/>
-<img align="left" alt="sushilburagute7 | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" /> https://twitter.com/codetastic1 <br/>
-<img align="left" alt="sushilburagute | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" /> https://www.linkedin.com/in/sushil-buragute/ <br/>
-<img align="left" alt="sushilburagute | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" /> https://www.instagram.com/sushil.buragute/ <br/>
-
----
-
