@@ -3,6 +3,7 @@
 </p>
 
 <br/>
+<br/>
 
 # 👋 About me
 
@@ -14,6 +15,7 @@
 
 ![Profile views](https://gpvc.arturio.dev/sushilburagute) <img src="https://img.shields.io/github/followers/sushilburagute?label=Follow" style=" float:left, margin-right:10px" />
 
+<br/>
 <br/>
 
 # 🛠️ Stack
@@ -31,6 +33,22 @@
 ![Framer](https://img.shields.io/badge/Framer-black?style=for-the-badge&logo=framer&logoColor=blue)
 ![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white)
 
+<br/>
+<br/>
+
+# 🌐 Let's Connect!
+
+<br/>
+
+[![Portfolio](https://img.shields.io/badge/Portfolio-%23000000.svg?style=for-the-badge&logo=firefox&logoColor=#FF7139)](https://sush.vercel.app/)
+
+[![Twitter](https://img.shields.io/badge/codetastic1-%231DA1F2.svg?style=for-the-badge&logo=Twitter&logoColor=white)](https://twitter.com/codetastic1)
+
+[![Linkedin](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://in.linkedin.com/in/sushil-buragute)
+
+<br/>
+<br/>
+
 # 📈 Github Stats
 
 <br/>
@@ -38,15 +56,5 @@
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=sushilburagute&show_icons=true&hide_border=true)
 
 ![GitHub stats](https://github-readme-stats.vercel.app/api/top-langs/?username=sushilburagute)
-
-# 🌐 Let's Connect!
-
-<br/>
-
-![https://sush.vercel.app/](https://img.shields.io/badge/Portfolio-%23000000.svg?style=for-the-badge&logo=firefox&logoColor=#FF7139)
-
-![https://twitter.com/codetastic1](https://img.shields.io/badge/codetastic1-%231DA1F2.svg?style=for-the-badge&logo=Twitter&logoColor=white)
-
-![https://in.linkedin.com/in/sushil-buragute](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)
 
 ---
