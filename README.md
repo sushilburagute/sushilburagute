@@ -1,60 +1,68 @@
 <p align="center">
-  <img src="https://raw.githubusercontent.com/sushilburagute/sushilburagute/main/header.png" width="100%" title="Header Card" alt="Header Card">
+  <img src="https://raw.githubusercontent.com/sushilburagute/sushilburagute/main/header.png" width="100%" alt="Header" />
 </p>
 
-<br/>
-<br/>
+<br />
 
-# 👋 About me
+## 👋 Hi, I’m Sushil
 
-> I'm a Software Engineer who majorly works on Web Technologies. I admire having amazing UI design go hand-in-hand with development and that's what pushed to pick up design alongside learning development.
+Product-minded **Software Engineer (SDE-2 at Porter)** building high-impact web systems end-to-end.  
+I like shipping fast experiments, sweating UX + performance details, and using data (and AI) to drive real product decisions.
 
-> I specialize in working on the frontend with ReactJS, Typescript and TailwindCSS. Apart from that, I've some experience working with ExpressJS and MongoDB on the backend.
-
-<br/>
-
-![Profile views](https://gpvc.arturio.dev/sushilburagute) <img src="https://img.shields.io/github/followers/sushilburagute?label=Follow" style=" float:left, margin-right:10px" />
-
-<br/>
-<br/>
-
-# 🛠️ Stack
-
-<br/>
-
-![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
-![Next JS](https://img.shields.io/badge/Next-black?style=for-the-badge&logo=next.js&logoColor=white)
-![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white)
-![TailwindCSS](https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white)
-![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
-![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white)
-![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white)
-![Chakra](https://img.shields.io/badge/chakra-%234ED1C5.svg?style=for-the-badge&logo=chakraui&logoColor=white)
-![Framer](https://img.shields.io/badge/Framer-black?style=for-the-badge&logo=framer&logoColor=blue)
-![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white)
-
-<br/>
-<br/>
-
-# 🌐 Let's Connect!
-
-<br/>
-
-[![Portfolio](https://img.shields.io/badge/Portfolio-%23000000.svg?style=for-the-badge&logo=firefox&logoColor=#FF7139)](https://sush.vercel.app/)
-
-[![Twitter](https://img.shields.io/badge/codetastic1-%231DA1F2.svg?style=for-the-badge&logo=Twitter&logoColor=white)](https://twitter.com/codetastic1)
-
-[![Linkedin](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://in.linkedin.com/in/sushil-buragute)
-
-<br/>
-<br/>
-
-# 📈 Github Stats
-
-<br/>
-
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=sushilburagute&show_icons=true&hide_border=true)
-
-![GitHub stats](https://github-readme-stats.vercel.app/api/top-langs/?username=sushilburagute)
+Most days I’m working shoulder-to-shoulder with designers, PMs, and backend teams, owning reliability.
 
 ---
+
+## 🧠 What I focus on
+
+- **Frontend architecture at scale** (React 18/19, Next.js 14/15, TypeScript)
+- **Performance & conversion** (Core Web Vitals, Lighthouse, SEO, experiments)
+- **Product engineering** (funnels, analytics, A/B tests, iteration velocity)
+- **AI-assisted workflows** (LLM POCs, automation, internal tools)
+- **Ownership** : from design → code → infra → monitoring
+
+---
+
+## 🧩 Open-source & side projects
+
+- **Strapi GCS Upload Provider**  
+  TypeScript provider for Google Cloud Storage + CDN  
+  → ~25 npm installs/week
+- **sush.dev**  
+  Personal site (Next 15, ISR, MDX) — Lighthouse **98/100 mobile**
+- **kanban.sush.dev**  
+  Local-first Kanban board (React 19, IndexedDB, zero-backend)
+- **habits.sush.dev**  
+  Offline-ready habit tracker PWA — Lighthouse **100**
+- **kalyani**  
+  Conversational truck-booking bot using Gemini Live + WebSockets
+
+---
+
+## 🛠️ Tech I reach for
+
+**Frontend**  
+TypeScript, JavaScript, React, Next.js, ReScript, Tailwind, Shadcn UI, React Query
+
+**Backend**  
+Node (Express), Ruby on Rails, Kotlin Ktor, REST
+
+**Build & DX**  
+Nx, Webpack 5, Jest, React Testing Library
+
+**Cloud & Infra**  
+GCP, AWS, Docker, GitHub Actions, Terraform
+
+**Observability**  
+Datadog, Sentry, Grafana, CloudWatch, GCP Monitoring
+
+---
+
+## 🌐 Around the web
+
+- 🌍 **Portfolio:** https://sush.dev
+- 💼 **LinkedIn:** https://in.linkedin.com/in/sushil-buragute
+
+---
+
+> I care about building things that _actually move metrics_.
