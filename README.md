@@ -60,8 +60,8 @@ Datadog, Sentry, Grafana, CloudWatch, GCP Monitoring
 
 ## 🌐 Around the web
 
-- 🌍 **Portfolio:** https://sush.dev
-- 💼 **LinkedIn:** https://in.linkedin.com/in/sushil-buragute
+- 🌍 **Portfolio:** https://sush.dev?utm_source=github
+- 💼 **LinkedIn:** https://in.linkedin.com/in/sushil-buragute?utm_source=github
 
 ---
 
